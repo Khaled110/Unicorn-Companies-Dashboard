@@ -1,6 +1,6 @@
 # Unicorn-Companies-Dashboard
 An interactive dashboard using plotly and dash.
-The dashboard provides insights about unicorn companies compare between them in different countries and industries.
+The dashboard provides insights about unicorn companies and compare between them in different countries and industries.
 
 This is a screenshot for the dashboard
 
